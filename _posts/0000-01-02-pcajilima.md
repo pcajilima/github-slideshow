@@ -6,6 +6,10 @@ title: "Bonjour to our second slide!"
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
+    
+<H1 size>
+<H3 size>
+<H6 size>
 
 *Italic*
 **bolded*

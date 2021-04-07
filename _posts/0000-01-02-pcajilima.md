@@ -3,9 +3,9 @@ layout: slide
 title: "Bonjour to our second slide!"
 ---
 
-# H1
-## H2
-###### ... H6 
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
 
 *Italic*
 **bolded*

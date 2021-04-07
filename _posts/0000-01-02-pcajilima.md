@@ -7,9 +7,9 @@ title: "Bonjour to our second slide!"
 ## This is an <h2> tag
 ###### This is an <h6> tag
     
-<H1 size>
-<H3 size>
-<H6 size>
+<h1> L </h1>
+<h3> O </h3>
+<h6> L </h6>
 
 *Italic*
 **bolded*
